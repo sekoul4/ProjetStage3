@@ -1,0 +1,14 @@
+C:\Users\Elève\Documents\stage_test\ProjetStage3\bin\Debug\net8.0-windows\ProjetStage3.exe
+C:\Users\Elève\Documents\stage_test\ProjetStage3\bin\Debug\net8.0-windows\ProjetStage3.deps.json
+C:\Users\Elève\Documents\stage_test\ProjetStage3\bin\Debug\net8.0-windows\ProjetStage3.runtimeconfig.json
+C:\Users\Elève\Documents\stage_test\ProjetStage3\bin\Debug\net8.0-windows\ProjetStage3.dll
+C:\Users\Elève\Documents\stage_test\ProjetStage3\bin\Debug\net8.0-windows\ProjetStage3.pdb
+C:\Users\Elève\Documents\stage_test\ProjetStage3\obj\Debug\net8.0-windows\ProjetStage3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elève\Documents\stage_test\ProjetStage3\obj\Debug\net8.0-windows\ProjetStage3.AssemblyInfoInputs.cache
+C:\Users\Elève\Documents\stage_test\ProjetStage3\obj\Debug\net8.0-windows\ProjetStage3.AssemblyInfo.cs
+C:\Users\Elève\Documents\stage_test\ProjetStage3\obj\Debug\net8.0-windows\ProjetStage3.csproj.CoreCompileInputs.cache
+C:\Users\Elève\Documents\stage_test\ProjetStage3\obj\Debug\net8.0-windows\ProjetStage3.dll
+C:\Users\Elève\Documents\stage_test\ProjetStage3\obj\Debug\net8.0-windows\refint\ProjetStage3.dll
+C:\Users\Elève\Documents\stage_test\ProjetStage3\obj\Debug\net8.0-windows\ProjetStage3.pdb
+C:\Users\Elève\Documents\stage_test\ProjetStage3\obj\Debug\net8.0-windows\ProjetStage3.genruntimeconfig.cache
+C:\Users\Elève\Documents\stage_test\ProjetStage3\obj\Debug\net8.0-windows\ref\ProjetStage3.dll
